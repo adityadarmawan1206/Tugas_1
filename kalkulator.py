@@ -31,3 +31,6 @@ def kalkulator():
             print("Error: Pembagian dengan nol tidak bisa!")
     else:
         print("Pilihan tidak valid!")
+
+# ini penting: panggil fungsi kalkulator
+kalkulator()
